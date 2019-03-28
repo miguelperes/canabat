@@ -1,0 +1,2407 @@
+# depslib dependency file v1.0
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\allegro.h
+	<allegro5/allegro.h>
+
+1344729017 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+
+1344726298 c:\users\thael\documents\ufrj\gdp\projetos\canabat\game.h
+	<allegro5/allegro.h>
+	"Player.h"
+	"Plataform.h"
+
+1344724227 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Globais.h"
+
+1344716176 c:\users\thael\documents\ufrj\gdp\projetos\canabat\globais.h
+
+1344629766 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\gameobject.cpp
+	"GameObject.h"
+
+1344720715 c:\users\thael\documents\ufrj\gdp\projetos\canabat\gameobject.h
+	<allegro5/allegro.h>
+
+1344731363 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\player.cpp
+	"Player.h"
+	"Globais.h"
+	<allegro5/allegro.h>
+	<cstdio>
+
+1344728536 c:\users\thael\documents\ufrj\gdp\projetos\canabat\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1344653058 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	<cstdio>
+
+1344654840 c:\users\thael\documents\ufrj\gdp\projetos\canabat\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1344654839 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+
+1344654852 c:\users\thael\documents\ufrj\gdp\projetos\canabat\overscreen.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+
+1344728679 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344720662 c:\users\thael\documents\ufrj\gdp\projetos\canabat\plataform.h
+	"GameObject.h"
+
+1344720326 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\globais.cpp
+	"Globais.h"
+
+1344743160 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+
+1344726298 c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\game.h
+	<allegro5/allegro.h>
+	"Player.h"
+	"Plataform.h"
+
+1344742881 c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1344720715 c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\gameobject.h
+	<allegro5/allegro.h>
+
+1344743318 c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\plataform.h
+	"Player.h"
+	"GameObject.h"
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\allegro.h
+	<allegro5/allegro.h>
+
+1344716176 c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\globais.h
+
+1344629766 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\gameobject.cpp
+	"GameObject.h"
+
+1344653058 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	<cstdio>
+
+1344654840 c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1344742899 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\player.cpp
+	"Player.h"
+	"Globais.h"
+	<allegro5/allegro.h>
+	<cstdio>
+
+1344731900 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Globais.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344743132 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [v0.2] - bug colisão\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	"Player.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344973240 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1344969714 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\game.h
+	<allegro5/allegro.h>
+	<list>
+	"Player.h"
+	"Plataform.h"
+
+1344970490 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1344970380 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1344970497 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\plataform.h
+	"GameObject.h"
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\allegro.h
+	<allegro5/allegro.h>
+
+1344716176 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\globais.h
+
+1344882742 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\gameobject.cpp
+	"GameObject.h"
+
+1344653058 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	<cstdio>
+
+1344654840 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1344970506 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344973299 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344731900 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Globais.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344976704 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1344969714 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\game.h
+	<allegro5/allegro.h>
+	<list>
+	"Player.h"
+	"Plataform.h"
+
+1344976653 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1344976678 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1344970497 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\plataform.h
+	"GameObject.h"
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\allegro.h
+	<allegro5/allegro.h>
+
+1344716176 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\globais.h
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\gameobject.cpp
+	"GameObject.h"
+
+1344653058 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	<cstdio>
+
+1344654840 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1344970506 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344976785 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344731900 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Globais.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabatatual\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344976704 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1344969714 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\game.h
+	<allegro5/allegro.h>
+	<list>
+	"Player.h"
+	"Plataform.h"
+
+1344976653 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1344976678 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1344970497 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\plataform.h
+	"GameObject.h"
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\allegro.h
+	<allegro5/allegro.h>
+
+1344716176 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\globais.h
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\gameobject.cpp
+	"GameObject.h"
+
+1344653058 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	<cstdio>
+
+1344654840 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1344982109 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344982443 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344731900 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Globais.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\canabat [v0.31] - bug colisão\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344993579 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1344991831 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+
+1344992776 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1344976678 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1344970497 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\plataform.h
+	"GameObject.h"
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\allegro.h
+	<allegro5/allegro.h>
+
+1344716176 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\globais.h
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\gameobject.cpp
+	"GameObject.h"
+
+1344994002 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	<cstdio>
+
+1344654840 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1344988095 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344993397 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344993466 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Globais.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.31] - colisão + textura - fundo\background.h
+	"GameObject.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\background.h
+	"GameObject.h"
+
+1344976678 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1344716176 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\globais.h
+
+1344997136 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1344995405 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+
+1344992776 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1344970497 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\plataform.h
+	"GameObject.h"
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\gameobject.cpp
+	"GameObject.h"
+
+1344994002 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	<cstdio>
+
+1344995159 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1344997301 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344993397 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1344993466 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Globais.h"
+
+1344996033 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	<cstdio>
+
+1344995100 c:\users\thael\documents\ufrj\gdp\projetos\canabat [versões]\atual\canabat [v0.5] - colisão + textura - fundo\overscreen.h
+	<allegro5/allegro.h>
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\background.h
+	"GameObject.h"
+
+1344976678 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345088128 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\globais.h
+
+1345097517 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345093087 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+
+1345081797 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345081898 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\plataform.h
+	"GameObject.h"
+
+1345096163 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<list>
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\gameobject.cpp
+	"GameObject.h"
+
+1345088298 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345090285 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1345097540 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345081940 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345091811 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1345093193 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345090739 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v0.5] - colisão + textura - fundo\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\background.h
+	"GameObject.h"
+
+1344976678 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345088128 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\globais.h
+
+1345098981 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345093087 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+
+1345081797 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345081898 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\plataform.h
+	"GameObject.h"
+
+1345096163 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<list>
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\gameobject.cpp
+	"GameObject.h"
+
+1345088298 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345090285 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1345093193 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345090739 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345097638 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345098657 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345091811 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [em desenvolvimento]\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\background.h
+	"GameObject.h"
+
+1344976678 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345088128 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\globais.h
+
+1345098981 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345093087 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+
+1345081797 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345081898 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\plataform.h
+	"GameObject.h"
+
+1345096163 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<list>
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\gameobject.cpp
+	"GameObject.h"
+
+1345088298 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345090285 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1345093193 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345090739 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345097638 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345098657 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345099013 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v8] - ++velocidade incremental\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\background.h
+	"GameObject.h"
+
+1344976678 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345088128 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\globais.h
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\gameobject.cpp
+	"GameObject.h"
+
+1345088298 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345090285 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\introscreen.h
+	<allegro5/allegro.h>
+	"Game.h"
+
+1345093087 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+
+1345081797 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\player.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345081898 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\plataform.h
+	"GameObject.h"
+
+1345096163 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<list>
+
+1345093193 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345090739 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345097638 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345098657 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345099013 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v8] - ++velocidade incremental\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\background.h
+	"GameObject.h"
+
+1345674157 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345682481 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\globais.h
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\gameobject.cpp
+	"GameObject.h"
+
+1345659803 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345658177 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345686174 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345678646 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667124 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\plataform.h
+	"GameObject.h"
+
+1345659773 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1345658331 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345090739 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345660123 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345668381 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345678891 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1345683486 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345137347 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\jumpanimation.cpp
+	"JumpAnimation.h"
+
+1345135145 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\jumpanimation.h
+	"GameObject.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\background.h
+	"GameObject.h"
+
+1344976678 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345146049 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\globais.h
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\gameobject.cpp
+	"GameObject.h"
+
+1345659803 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345658177 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345664203 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+
+1345664176 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+
+1345173668 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\plataform.h
+	"GameObject.h"
+
+1345659773 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1345137347 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\jumpanimation.cpp
+	"JumpAnimation.h"
+
+1345135145 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\jumpanimation.h
+	"GameObject.h"
+
+1345658331 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345090739 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345660123 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345660958 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345664170 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1345664409 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento] - novo e funcional\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345682776 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1345678165 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [desenvolvimento]\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\background.h
+	"GameObject.h"
+
+1345674157 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345682481 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\globais.h
+
+1345688960 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345686174 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345678646 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667124 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\plataform.h
+	"GameObject.h"
+
+1345749015 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345659773 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\gameobject.cpp
+	"GameObject.h"
+
+1345659803 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345658177 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345137347 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\jumpanimation.cpp
+	"JumpAnimation.h"
+
+1345135145 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\jumpanimation.h
+	"GameObject.h"
+
+1345658331 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345090739 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345660123 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345668381 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345678891 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1345749017 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v12] - ++obstáculos funcionais\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\background.h
+	"GameObject.h"
+
+1345674157 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345682481 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\globais.h
+
+1345750020 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345686174 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345678646 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667124 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\plataform.h
+	"GameObject.h"
+
+1345749015 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345659773 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\gameobject.cpp
+	"GameObject.h"
+
+1345750118 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345749249 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345750317 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345090739 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345749017 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1345749924 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345668381 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345678891 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v12] - ++obstáculos funcionais\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\background.h
+	"GameObject.h"
+
+1345674157 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345682481 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\globais.h
+
+1345754571 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345686174 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345678646 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667124 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\plataform.h
+	"GameObject.h"
+
+1345749015 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345750751 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\gameobject.cpp
+	"GameObject.h"
+
+1345750118 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345749249 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345753972 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1345753890 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345678891 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1345752833 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345755473 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345752251 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v14]\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\background.h
+	"GameObject.h"
+
+1345674157 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345759923 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\globais.h
+
+1345754571 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345686174 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345678646 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667124 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\plataform.h
+	"GameObject.h"
+
+1345749015 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345750751 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\gameobject.cpp
+	"GameObject.h"
+
+1345755473 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345752833 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345760011 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345753972 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1345752251 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345753890 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345678891 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345759447 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\infoscreen.cpp
+	"infoScreen.h"
+
+1345759447 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\infoscreen.h
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1345761286 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v15]\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\background.h
+	"GameObject.h"
+
+1345674157 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345766276 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\globais.h
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\gameobject.cpp
+	"GameObject.h"
+
+1345761286 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345760011 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345686174 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345766898 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667124 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\plataform.h
+	"GameObject.h"
+
+1345749015 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345750751 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1345766890 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345752833 c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345753972 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1345752251 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345762501 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345768073 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1345768023 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\atual\canabat [v16]\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1344653419 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542350 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\allegro.h
+	<allegro5/allegro.h>
+
+1344986837 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986822 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\background.h
+	"GameObject.h"
+
+1345674157 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345766276 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\globais.h
+
+1345768023 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345686174 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345766898 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667124 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\plataform.h
+	"GameObject.h"
+
+1345749015 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345750751 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1344976669 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\gameobject.cpp
+	"GameObject.h"
+
+1345761286 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345760011 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345766890 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345752833 c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345753972 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1345752251 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345769376 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345768073 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085422 source:c:\users\thael\documents\ufrj\gdp\projetos\canabat\canabat [v17]\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1344653420 source:f:\miguel\canabat\canabat\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542352 f:\miguel\canabat\canabat\allegro.h
+	<allegro5/allegro.h>
+
+1344986838 source:f:\miguel\canabat\canabat\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986824 f:\miguel\canabat\canabat\background.h
+	"GameObject.h"
+
+1345674158 f:\miguel\canabat\canabat\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345766278 f:\miguel\canabat\canabat\globais.h
+
+1345769468 source:f:\miguel\canabat\canabat\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345686176 f:\miguel\canabat\canabat\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345766900 f:\miguel\canabat\canabat\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667126 f:\miguel\canabat\canabat\plataform.h
+	"GameObject.h"
+
+1345749016 f:\miguel\canabat\canabat\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345750752 f:\miguel\canabat\canabat\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1344976670 source:f:\miguel\canabat\canabat\gameobject.cpp
+	"GameObject.h"
+
+1345761288 source:f:\miguel\canabat\canabat\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345760012 f:\miguel\canabat\canabat\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345766892 source:f:\miguel\canabat\canabat\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345752834 f:\miguel\canabat\canabat\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345753974 source:f:\miguel\canabat\canabat\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1345752252 source:f:\miguel\canabat\canabat\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345769378 source:f:\miguel\canabat\canabat\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345768074 source:f:\miguel\canabat\canabat\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085424 source:f:\miguel\canabat\canabat\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1344653420 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542352 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\allegro.h
+	<allegro5/allegro.h>
+
+1344986838 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986824 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\background.h
+	"GameObject.h"
+
+1345674158 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345766278 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\globais.h
+
+1345769468 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345686176 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345766900 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667126 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\plataform.h
+	"GameObject.h"
+
+1345749016 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345750752 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1344976670 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\gameobject.cpp
+	"GameObject.h"
+
+1345761288 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345760012 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345766892 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345752834 c:\users\vallcrist\desktop\gameart\miguel péres\canabat\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345753974 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1345752252 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345769378 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345768074 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085424 source:c:\users\vallcrist\desktop\gameart\miguel péres\canabat\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
+1344653420 source:c:\users\caco\desktop\gameart\miguel péres\canabat\allegro.cpp
+	"allegro.h"
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+
+1344542352 c:\users\caco\desktop\gameart\miguel péres\canabat\allegro.h
+	<allegro5/allegro.h>
+
+1344986838 source:c:\users\caco\desktop\gameart\miguel péres\canabat\background.cpp
+	"Background.h"
+	"Globais.h"
+
+1344986824 c:\users\caco\desktop\gameart\miguel péres\canabat\background.h
+	"GameObject.h"
+
+1345674158 c:\users\caco\desktop\gameart\miguel péres\canabat\gameobject.h
+	<allegro5/allegro.h>
+	<cstdio>
+
+1345766278 c:\users\caco\desktop\gameart\miguel péres\canabat\globais.h
+
+1345769468 source:c:\users\caco\desktop\gameart\miguel péres\canabat\game.cpp
+	"Game.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+	<stdlib.h>
+	<allegro5/allegro_primitives.h>
+
+1345686176 c:\users\caco\desktop\gameart\miguel péres\canabat\game.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Player.h"
+	"Plataform.h"
+	"Background.h"
+	"OverScreen.h"
+	"Obstacle.h"
+
+1345766900 c:\users\caco\desktop\gameart\miguel péres\canabat\player.h
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"GameObject.h"
+	"Plataform.h"
+	"Obstacle.h"
+
+1345667126 c:\users\caco\desktop\gameart\miguel péres\canabat\plataform.h
+	"GameObject.h"
+
+1345749016 c:\users\caco\desktop\gameart\miguel péres\canabat\obstacle.h
+	"GameObject.h"
+	"Plataform.h"
+
+1345750752 c:\users\caco\desktop\gameart\miguel péres\canabat\overscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	<list>
+
+1344976670 source:c:\users\caco\desktop\gameart\miguel péres\canabat\gameobject.cpp
+	"GameObject.h"
+
+1345761288 source:c:\users\caco\desktop\gameart\miguel péres\canabat\introscreen.cpp
+	"IntroScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345760012 c:\users\caco\desktop\gameart\miguel péres\canabat\introscreen.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_audio.h>
+	<allegro5/allegro_acodec.h>
+	"Game.h"
+
+1345766892 source:c:\users\caco\desktop\gameart\miguel péres\canabat\master.cpp
+	"Master.h"
+	"Allegro.h"
+	"Globais.h"
+
+1345752834 c:\users\caco\desktop\gameart\miguel péres\canabat\master.h
+	<allegro5/allegro.h>
+	"IntroScreen.h"
+	"Game.h"
+	"OverScreen.h"
+
+1345753974 source:c:\users\caco\desktop\gameart\miguel péres\canabat\obstacle.cpp
+	"Obstacle.h"
+	"Game.h"
+	"Globais.h"
+	<cstdio>
+
+1345752252 source:c:\users\caco\desktop\gameart\miguel péres\canabat\overscreen.cpp
+	"OverScreen.h"
+	"Allegro.h"
+	"Globais.h"
+	<cstdio>
+
+1345769378 source:c:\users\caco\desktop\gameart\miguel péres\canabat\plataform.cpp
+	"Plataform.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345768074 source:c:\users\caco\desktop\gameart\miguel péres\canabat\player.cpp
+	"Player.h"
+	"Globais.h"
+	"Game.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_primitives.h>
+	<cstdio>
+
+1345085424 source:c:\users\caco\desktop\gameart\miguel péres\canabat\main.cpp
+	<iostream>
+	"Allegro.h"
+	"IntroScreen.h"
+	"Game.h"
+	"Master.h"
+	"Globais.h"
+
